@@ -107,10 +107,10 @@ export default function Dashboard() {
             <Card>
               <CardHeader className="text-center">
                 <Avatar className="w-20 h-20 mx-auto mb-4">
-                  <AvatarImage src="/placeholder.svg?height=80&width=80" />
+                  <AvatarImage src="/pic.jpg" />
                   <AvatarFallback>JD</AvatarFallback>
                 </Avatar>
-                <CardTitle>John Doe</CardTitle>
+                <CardTitle>Mr Ivin Shajan</CardTitle>
                 <CardDescription>Independent Filmmaker</CardDescription>
                 <Badge variant="secondary" className="w-fit mx-auto">
                   Available
@@ -118,7 +118,7 @@ export default function Dashboard() {
               </CardHeader>
               <CardContent>
                 <div className="space-y-2 text-sm text-gray-600">
-                  <p>📍 Los Angeles, CA</p>
+                  <p>📍 Kochi, KL</p>
                   <p>🎬 15 projects completed</p>
                   <p>⭐ 4.9 rating</p>
                 </div>
